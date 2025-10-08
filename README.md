@@ -81,7 +81,7 @@ cover.html
     </body>
 </html>
 
-style.html
+style.css
 
 body{
     background-color: #000000;
