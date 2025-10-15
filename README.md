@@ -175,7 +175,9 @@ body{
 
 ```
 ## OUTPUT:
-<img width="1902" height="1047" alt="webprgt" src="https://github.com/user-attachments/assets/2674ab90-b2ba-4c37-8843-3cd4e99fafeb" />
+<img width="1254" height="688" alt="image" src="https://github.com/user-attachments/assets/b69d8e89-f53b-43bc-9437-51109c57420f" />
+
+
 
 
 ## RESULT:
