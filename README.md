@@ -54,8 +54,8 @@ cover.html
                 </div>
                 
                 <div class="content">
-                    <p><h2>Moonlit Melodies
-                         of Vrindavan</h2></p>
+                    <p><h2>A Digital Reverie: Crafting Divine Love Through Animation
+                        </h2></p>
                             
                 </div>
                 <br>
@@ -80,6 +80,8 @@ cover.html
        </div>
     </body>
 </html>
+
+
 
 style.css
 
@@ -175,7 +177,8 @@ body{
 
 ```
 ## OUTPUT:
-<img width="1254" height="688" alt="image" src="https://github.com/user-attachments/assets/b69d8e89-f53b-43bc-9437-51109c57420f" />
+<img width="1352" height="744" alt="image" src="https://github.com/user-attachments/assets/bce9b813-6789-4f6b-a856-230a92bfda87" />
+
 
 
 
